@@ -1,0 +1,5 @@
+hw-02_huffman
+obj/
+/*.txt
+.cache/
+*.json
